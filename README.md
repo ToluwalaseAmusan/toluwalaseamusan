@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I’m *Toluwalase Amusan*  
+🎯 *Entry-Level Data Analyst* | SQL • Python • Power BI | Remote Work Enthusiast  
 
-<!--
-**ToluwalaseAmusan/toluwalaseamusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 About Me  
+- 🎓 B.Tech in Computer Science (Expected 2025)  
+- 🔍 Passionate about turning raw data into meaningful insights  
+- 💻 Skilled in *SQL, Python, Excel, and Power BI*  
+- 🌍 Actively seeking *remote data analyst opportunities*  
+- 📈 Interested in *business analytics, dashboard design, and sports analytics*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills  
+- *Data Analysis & Visualization:* Power BI, Tableau, Excel  
+- *Programming & Databases:* Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- *Other Tools:* Google Sheets, Microsoft Office  
+- *Soft Skills:* Problem-Solving, Communication, Remote Collaboration  
+
+---
+
+## 📂 Projects  
+
+### 🔹 Retail Sales Dashboard (Power BI)  
+Analyzed £10.6M in sales, tracked KPIs for revenue, customers, and products.  
+
+### 🔹 Customer Analytics Dashboard (Power BI)  
+Built KPI-focused report showing top customers and regional sales growth.  
+
+### 🔹 SQL Sales Insights  
+Wrote queries to calculate product revenue, identify top 5 customers, and analyze monthly sales trends.  
+
+### 🔹 Gender Pay Gap Analysis (Power BI)  
+Visualized salary equity across departments and office locations.  
+
+---
+
+## 📜 Certifications  
+- Digital for All Challenge 2.0 – Data Analysis (2025)  
+- ALX – AI Career Essentials (2024)  
+- Microsoft Excel for Data Analysis (2023)  
+- Jobberman Accelerated Soft Skills (2022)  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: *toluwalaseamusan@gmail.com*  
+- 💼 LinkedIn: [linkedin.com/in/toluwalase-amusan-875566233](https://www.linkedin.com/in/toluwalase-amusan-875566233)  
+
+---
+
+⚡ “I believe data tells stories. My goal is to make those stories clear, actionable, and impactful.”
