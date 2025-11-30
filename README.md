@@ -4,11 +4,11 @@
 ---
 
 ## 📌 About Me  
-- 🎓 B.Tech in Computer Science (Expected 2025)  
+- 🎓 B.Tech in Computer Science   
 - 🔍 Passionate about turning raw data into meaningful insights  
 - 💻 Skilled in *SQL, Python, Excel, and Power BI*  
 - 🌍 Actively seeking *remote data analyst opportunities*  
-- 📈 Interested in *business analytics, dashboard design, and sports analytics*  
+- 📈 Interested in *business analytics, web 3analytics, dashboard design, and sports analytics*  
 
 ---
 
